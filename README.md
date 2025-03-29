@@ -9,7 +9,7 @@ Enjoy a game of Rock Paper Scissors with the following steps:
 1. **Installation**
    - Clone this repository:
      ```bash
-     git clone https://github.com/VipranshOjha/rock-paper-scissors.git
+     git clone https://github.com/VipranshOjha/Rock-Paper-Scissors.git
      ```
    - Ensure you have Python installed.
 
@@ -17,7 +17,7 @@ Enjoy a game of Rock Paper Scissors with the following steps:
    - Navigate to the project directory.
    - Execute the Python script:
      ```bash
-     python rock_paper_scissors.py
+     python RockPaperScissors.py
      ```
 
 3. **Game Rules**
@@ -40,7 +40,7 @@ Enjoy a game of Rock Paper Scissors with the following steps:
 
 ## Repository Structure
 
-- `rock_paper_scissors.py`: Main Python script containing the Rock Paper Scissors game logic and GUI implementation.
+- `Rock_Paper_Scissors.py`: Main Python script containing the Rock Paper Scissors game logic and GUI implementation.
 - `README.md`: This document explaining the game and its usage.
 
 ## Dependencies
